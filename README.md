@@ -19,6 +19,7 @@ An example of MVVM-C + UIKit + Combine show FightCamp packages.
 Using MVVM-C pattern gives us some benefits like code reuse, ease of testing, bindings make UI updates easier to handle, ease of maintainability.
 
 And splitting off protocols (DataSource and Delegate) into separate objects we can re-use those objects in other view controllers, or use different objects in the same view controller to get different behavior at runtime.
+<a href="https://drive.google.com/uc?export=view&id=1OYgtsWtuZ2la4AyPUQTJ1dOCKsX23DSj"><img src="https://drive.google.com/uc?export=view&id=1OYgtsWtuZ2la4AyPUQTJ1dOCKsX23DSj" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 ## Next Features
 - Implement Detail Package screen
